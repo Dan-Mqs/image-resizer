@@ -8,7 +8,7 @@
  Node v12.19.0
  npm v6.14.8
 
-[PT-BR]
+##[PT-BR]
 Redimensionador de imagens offline, utilizando Node.JS.
 
 Pacotes usados: FileSystem(fs), Path e Sharp.
