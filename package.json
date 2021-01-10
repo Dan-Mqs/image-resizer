@@ -1,0 +1,14 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan-Mqs",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
